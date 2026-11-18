@@ -40,5 +40,5 @@
   - verify: 新环境执行 `npm test` 通过，无需安装依赖
 - [x] 5.2 增加 CI，推送与 PR 时跑测试
   - verify: 工作流运行记录为通过
-- [ ] 5.3 开启 GitHub Pages 并写入 README
-  - verify: 页面可通过公开地址访问
+- [x] 5.3 开启 GitHub Pages 并写入 README
+  - verify: https://yyhg707.github.io/todo-list/ 返回 200，页面可完成新增、完成、刷新恢复
