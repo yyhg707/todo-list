@@ -1,0 +1,14 @@
+schema: spec-driven
+
+context: |
+  Language: zh-CN
+  All artifacts must be written in zh-CN.
+  Keep OpenSpec structural headings and SHALL/MUST keywords in English.
+
+  项目：待办清单（Todo List），《互联网软件开发技术与实践》第 1 课作业的第二次交付。
+  纯前端静态页面，无后端、无账号、无网络请求；数据只存本机 localStorage。
+  目标：把初版「氛围编程」单文件，改成有规约、有测试、有部署的工程化小项目。
+  技术：原生 HTML/CSS/ES Module，Node 内置测试，GitHub Pages 部署，GitHub Actions 跑测试。
+  不做：账号登录、多设备同步、提醒推送、附件、协作。
+
+# Per-artifact rules (optional)
